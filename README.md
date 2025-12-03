@@ -26,12 +26,12 @@ We recommend using a virtual environment.
 
 ```bash
 # clone the repository
-git clone https://github.com/<your-user>/Tokamak-0D-Calculator.git
-cd Tokamak-0D-Calculator
+git clone https://github.com/<your-user>/Toka_LITE.git
+cd Toka_LITE
 
-# create and activate a virtual environment (example: venv)
+# create and activate a virtual environment
 python -m venv .venv
-source .venv/bin/activate   # on Windows: .venv\Scripts\activate
+source .venv/bin/activate  
 
 # install dependencies
 pip install -r requirements.txt
